@@ -1,0 +1,36 @@
+#ultasks li.done{
+    color: burlywood;
+    text-decoration: line-through;
+    
+}
+body{
+background-color: black;
+/*border-bottom: white solid 5px;*/
+border-top:white solid 5px ;
+border-left:white solid 5px ;
+border-right:white solid 5px ;
+
+
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-size: 25px;
+    color: white;
+}
+small{
+    font-size: 20px;
+    color: white;   
+}
+
+button{
+    box-shadow: white 4px 4px 4px;
+    transition: 3s;
+}
+button:hover{
+    transform:translate(-1px,-1px);
+    box-shadow: white 5px 5px 5px;
+}
