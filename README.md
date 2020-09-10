@@ -5,5 +5,6 @@ It includes special features like Add,Delete,Sort,CleanUp and AllClear.Another e
 tasks.
 Also you can sort your done tasks at the end of the list by clicking the sort button.
 
-Sources:https://getbootstrap.com/docs/4.5/getting-started/introduction/
-        https://code.jquery.com/jquery-3.5.1.min.js
+Sources:1.https://getbootstrap.com/docs/4.5/getting-started/introduction/
+       
+       2.https://code.jquery.com/jquery-3.5.1.min.js
